@@ -5,10 +5,12 @@ The goal is seamlessly blend two images together automatically given the blendin
   <img src="source_2.jpg">
   <img src="mask_2.bmp">
 </p>
+<br>
 <p align="center"><i>Target Image</i></p>
 <p align="center">
 <img src="target_2.jpg">
 </p>
+<br>
 <p align="center"><i>Result</i></p>
 <p align="center">
 <img src="blended.jpg">
