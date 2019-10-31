@@ -4,7 +4,8 @@ A morph is a warp of the image shape and a cross-dissolve of the image colors. T
 First, for each pixel in the intermediate image, determine which triangle it falls inside.
 
 Second, compute the barycentric coordinate for each pixel in the corresponding triangle.
-<img src="barycentric.gif"> where ![equation](https://latex.codecogs.com/gif.latex?\small&space;\alpha,&space;\beta,&space;\gamma) are its barycentric coordinates
+
+<img src="barycentric.gif">, where *a*,*b*,*c* are the three corners of triangle, *x*,*y* the pixel position, ![equation](https://latex.codecogs.com/gif.latex?\small&space;\alpha,&space;\beta,&space;\gamma) are its barycentric coordinates
 
 Third, 
 ## Result
