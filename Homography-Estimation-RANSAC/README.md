@@ -5,10 +5,10 @@
     <th>Perspective 2</th> 
   </tr>
   <tr>
-    <img src="building1.jpg" width="50%">
+    <td><img src="building1.jpg" width="50%"></td>
   </tr>
   <tr>
-    <img src="building2.jpg" width="50%">
+    <td><img src="building2.jpg" width="50%"></td>
   </tr>
 </table>
 <p align="center">
