@@ -15,7 +15,7 @@ Original Image
 
 <img src="waterfall.png" height="327">
 
-Intermediate Image
+Intermediate Images
 
 <img src="carving_waterfall.png">
 
