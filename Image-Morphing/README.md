@@ -7,7 +7,10 @@ Second, compute the barycentric coordinate for each pixel in the corresponding t
 
 <img src="barycentric.gif">, where *a*,*b*,*c* are the three corners of triangle, *x*,*y* the pixel position, ![equation](https://latex.codecogs.com/gif.latex?\small&space;\alpha,&space;\beta,&space;\gamma) are its barycentric coordinates
 
-Third, 
+Third, compute the cooresponding pixel position in the source image, using the barycentric equation
+
+Last, copy the pixel value from source images to intermediate image.
+
 ## Result
 <img src="image_morph.png">
 <img src="image_morph_triangulation.png">
