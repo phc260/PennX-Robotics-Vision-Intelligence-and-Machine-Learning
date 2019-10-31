@@ -29,5 +29,6 @@ The goal is seamlessly blend two images together automatically given the blendin
 <p align="center">
 <img src="flattened.jpg">
 </p>
+
 ## References
 "Poisson Image Editing", Perez, P., Gangnet, M., Blake, A. SIGGRAPH 2003 https://www.cs.virginia.edu/~connelly/class/2014/comp_photo/proj2/poisson.pdf
