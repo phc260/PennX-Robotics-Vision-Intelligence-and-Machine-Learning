@@ -1,3 +1,5 @@
-# Multiscale Optical Flow Estimation
+# Multiscale Optical Flow Estimation: Lucas-Kanade Method
 
-![image](https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Multiscale-Optical-Flow-Estimation/optical_flow.jpg)
+
+## Result
+<img src="optical_flow.jpg">
