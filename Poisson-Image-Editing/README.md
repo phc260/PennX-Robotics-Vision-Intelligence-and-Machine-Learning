@@ -1,6 +1,6 @@
 # Poisson Image Editing
 <p align="center">
-  <img src="mask_2.bmp"><img src="source_2.jpg">
+  <img src="source_2.jpg">  <img src="mask_2.bmp">
 </p>
 <img src="target_2.jpg">
 <img src="blended.jpg">
