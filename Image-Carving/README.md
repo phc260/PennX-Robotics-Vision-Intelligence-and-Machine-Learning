@@ -1,4 +1,5 @@
-## Image Carving
+# Image Carving
 
-![image](https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Image-Carving/waterfall.png)
-![image](https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Image-Carving/carved_waterfall.jpg)
+<img src="waterfall.png">
+<img src="carving_waterfall.png">
+<img src="carved_waterfall.png">
