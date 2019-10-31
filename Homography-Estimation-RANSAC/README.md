@@ -11,6 +11,8 @@ Use a sequence of images from different perspectives to construct a panoramic im
 <img src="building1.jpg" width="45%">
 <img src="building2.jpg" width="45%">
 </p>
-
-*Panoramic Image*
+<br>
+<p align="center"><i>Panoramic Image</i></p>
+<p align="center">
 <img src="building_ransac.jpg">
+<p>
