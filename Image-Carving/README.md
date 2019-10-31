@@ -14,7 +14,7 @@ Finally, the end of the minimal connected vertical seam resides right at the min
 
 <p>
     <img src="waterfall.png" height="327">
-    <em>\nOriginal Image</em>
+    <em><br>Original Image</em>
 </p>
 
 Intermediate Image
