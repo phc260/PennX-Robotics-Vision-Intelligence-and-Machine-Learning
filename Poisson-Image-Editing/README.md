@@ -1,9 +1,9 @@
 # Poisson Image Editing
-
-<img src="https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Poisson-Image-Editing/mask_2.bmp">
-<img src="https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Poisson-Image-Editing/source_2.jpg">
-<img src="https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Poisson-Image-Editing/target_2.jpg">
-<img src="https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Poisson-Image-Editing/blended.jpg">
+<p align="center">
+  <img src="mask_2.bmp"><img src="source_2.jpg">
+</p>
+<img src="target_2.jpg">
+<img src="blended.jpg">
 
 
 <img src="https://github.com/phc260/PennX-Robotics-Vision-Intelligence-and-Machine-Learning/blob/master/Poisson-Image-Editing/mask_bean.bmp">
