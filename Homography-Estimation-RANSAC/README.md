@@ -1,5 +1,5 @@
 # Homography Estimation: RANSAC
-<p>
+<p float="left">
     <img src="building1.jpg">
     <img src="building2.jpg">
 </p>
