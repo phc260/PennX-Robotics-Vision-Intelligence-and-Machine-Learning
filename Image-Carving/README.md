@@ -12,10 +12,13 @@ Second, for each pixel, calculate cumulative minimum energy ![equation](https://
 Finally, the end of the minimal connected vertical seam resides right at the minimum value of the last row in ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x). And then, backtrack all the way up from this minimum entry on ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x) to the first row in ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x) to find the path of the optimal seam.
 
 Original Image
+
 <img src="waterfall.png" height="327">
-![Alt text](waterfall.png?raw=true "Title")
+
 Intermediate Image
+
 <img src="carving_waterfall.png">
 
 Shrinked Image
+
 <img src="carved_waterfall.png" height="327">
