@@ -1,4 +1,4 @@
-# Image Morphing via triangulation
+# Image Morphing via Triangulation
 A morph is a warp of the image shape and a cross-dissolve of the image colors. The warp is controlled by defining a correspondence between the two pictures. The correspondence maps eyes to eyes, mouth to mouth, chin to chin, ears to ears, etc., to get the smoothest transformation.
 
 First, for each pixel in the intermediate image, determine which triangle it falls inside.
