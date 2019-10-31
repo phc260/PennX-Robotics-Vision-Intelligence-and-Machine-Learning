@@ -6,8 +6,11 @@ Use a sequence of images from different perspectives to construct a panoramic im
 3. Use RANSAC to find the best homography estimate from the estimated correspondences.
 
 ## Result
-*Images from different perspectives*
-<img src="building1.jpg" width="40%"><img src="building2.jpg" width="40%">
+<p align="center"><i>Images from different perspectives</i></p>
+<p align="center">
+<img src="building1.jpg" width="45%">
+<img src="building2.jpg" width="45%">
+</p>
 
 *Panoramic Image*
 <img src="building_ransac.jpg">
