@@ -1,5 +1,5 @@
 # Image Carving
 
-<img src="waterfall.png" width="50%">
+<img src="waterfall.png" height="70%">
 <img src="carving_waterfall.png">
-<img src="carved_waterfall.png">
+<img src="carved_waterfall.png" height="70%">
