@@ -24,6 +24,6 @@ Finally, the end of the minimal connected vertical seam resides right at the min
 
 <p>
     <img src="carved_waterfall.png" height="327">
-    <br><pre>Shrinked Image</pre>
+    <br>&nbsp;Shrinked Image
 </p>
 
