@@ -14,8 +14,5 @@ The goal is seamlessly blend two images together automatically given the blendin
 <img src="blended.jpg">
 </p>
 
-<img src="mask_bean.bmp">
-<img src="flattened.jpg" width="250"/>
-
 ## References
 "Poisson Image Editing", Perez, P., Gangnet, M., Blake, A. SIGGRAPH 2003 https://www.cs.virginia.edu/~connelly/class/2014/comp_photo/proj2/poisson.pdf
