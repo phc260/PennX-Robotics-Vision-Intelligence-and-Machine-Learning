@@ -7,7 +7,7 @@ Use a sequence of images from different perspectives to construct a panoramic im
 
 ## Result
 *Images from different perspectives*
-<img src="building1.jpg" width="45%"><img src="building2.jpg" width="45%">
+<img src="building1.jpg" width="40%"><img src="building2.jpg" width="40%">
 
 *Panoramic Image*
 <img src="building_ransac.jpg">
