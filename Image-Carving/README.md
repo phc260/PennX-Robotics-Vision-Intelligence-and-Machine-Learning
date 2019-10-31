@@ -9,7 +9,7 @@ Second, for each pixel, calculate cumulative minimum energy ![equation](https://
 
 ![equation](https://latex.codecogs.com/gif.latex?M_x(i,j)&space;=&space;E(i,j)&space;&plus;&space;min&space;\left&space;\{&space;M_x(i-1,j-1),&space;M_x(i-1,j),&space;M_x(i-1,j&plus;1)&space;\right&space;\})
 
-Finally, the end of the minimal connected vertical seam resides right at the minimum value of the last row in ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x). And then, backtrack all the way up from this minimum entry on *Mx* to the first row in *Mx* to find the path of the optimal seam.
+Finally, the end of the minimal connected vertical seam resides right at the minimum value of the last row in ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x). And then, backtrack all the way up from this minimum entry on ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x) to the first row in ![equation](https://latex.codecogs.com/gif.latex?\small&space;M_x) to find the path of the optimal seam.
 
 <img src="waterfall.png" height="327">
 <img src="carving_waterfall.png">
