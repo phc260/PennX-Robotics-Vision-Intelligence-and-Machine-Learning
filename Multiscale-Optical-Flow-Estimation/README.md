@@ -12,9 +12,13 @@ Therefore,
 
 ![equation](https://latex.codecogs.com/gif.latex?\frac{\partial&space;I}{\partial&space;x}dx&plus;\frac{\partial&space;I}{\partial&space;y}dy&plus;\frac{\partial&space;I}{\partial&space;t}dt=0)
 
-Divide both side by dt,
+Divide both side by ![equation](https://latex.codecogs.com/gif.latex?dt),
 
 ![equation](https://latex.codecogs.com/gif.latex?\frac{\partial&space;I}{\partial&space;x}\frac{dx}{dt}&plus;\frac{\partial&space;I}{\partial&space;y}\frac{dy}{dt}&plus;\frac{\partial&space;I}{\partial&space;t}\frac{dt}{dt}=0)
+
+Or, 
+
+![equation](https://latex.codecogs.com/gif.latex?\frac{\partial&space;I}{\partial&space;x}u&plus;\frac{\partial&space;I}{\partial&space;y}v&plus;\frac{\partial&space;I}{\partial&space;t}=0)
 
 ## Lucas-Kanade Method
 
