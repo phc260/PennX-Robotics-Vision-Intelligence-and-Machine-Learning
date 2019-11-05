@@ -23,7 +23,7 @@ or,
 ## Lucas-Kanade Method
 To solve
 
-![equation](https://latex.codecogs.com/gif.latex?\begin{bmatrix}I_x(q_1)&I_y(q_1)\\I_x(q_2)&I_y(q_2)\\\vdots&\vdots\\I_x(q_n)&I_y(q_n)\end{bmatrix}&space;\begin{bmatrix}u\\v\end{bmatrix}=&space;\begin{bmatrix}I_t(q_1)\\I_t(q_2)\\\vdots\\I_t(q_n)\end{bmatrix})
+![equation](https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;I_x(q_1)&space;&&space;I_y(q_1)\\&space;I_x(q_2)&space;&&space;I_y(q_2)\\&space;\vdots&space;&&space;\vdots\\&space;I_x(q_n)&space;&&space;I_y(q_n)&space;\end{bmatrix})
 
 where ![equation](https://latex.codecogs.com/gif.latex?q_1,q_2\hdots,q_n) are pixels.
 
