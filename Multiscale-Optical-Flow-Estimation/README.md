@@ -16,11 +16,17 @@ Divide both side by ![equation](https://latex.codecogs.com/gif.latex?dt),
 
 ![equation](https://latex.codecogs.com/gif.latex?\frac{\partial&space;I}{\partial&space;x}\frac{dx}{dt}&plus;\frac{\partial&space;I}{\partial&space;y}\frac{dy}{dt}&plus;\frac{\partial&space;I}{\partial&space;t}\frac{dt}{dt}=0)
 
-Or, 
+or, 
 
-![equation](https://latex.codecogs.com/gif.latex?\frac{\partial&space;I}{\partial&space;x}u&plus;\frac{\partial&space;I}{\partial&space;y}v&plus;\frac{\partial&space;I}{\partial&space;t}=0)
+![equation](https://latex.codecogs.com/gif.latex?I_xu&plus;I_yv&plus;I_t=0)
 
 ## Lucas-Kanade Method
+To solve
+
+![equation](https://latex.codecogs.com/gif.latex?\begin{bmatrix}I_x(q_1)&I_y(q_1)\\I_x(q_2)&I_y(q_2)\\\vdots&\vdots\\I_x(q_n)&I_y(q_n)\end{bmatrix}\begin{bmatrix}u\\v\end{bmatrix}=\begin{bmatrix}I_t(q_1)\\I_t(q_2)\\\vdots\\I_t(q_n)\end{bmatrix})
+
+where ![equation](https://latex.codecogs.com/gif.latex?q_1,q_2\hdots,q_n) are pixels.
+
 
 
 ## Result
