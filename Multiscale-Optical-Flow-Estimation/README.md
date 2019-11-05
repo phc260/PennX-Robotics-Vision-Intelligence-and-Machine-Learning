@@ -21,13 +21,15 @@ or,
 ![equation](https://latex.codecogs.com/gif.latex?I_xu&plus;I_yv&plus;I_t=0)
 
 ## Lucas-Kanade Method
-To solve
+The Lucas–Kanade method assumes that the displacement of these two frames is small. And the image flow (u,v) must satisfy
 
-![equation](https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;I_x(q_1)&space;&&space;I_y(q_1)\\&space;I_x(q_2)&space;&&space;I_y(q_2)\\&space;\vdots&space;&&space;\vdots\\&space;I_x(q_n)&space;&&space;I_y(q_n)&space;\end{bmatrix})
+<img src="eq1.gif">
 
 where ![equation](https://latex.codecogs.com/gif.latex?q_1,q_2\hdots,q_n) are pixels.
 
+Thus, the system has more equations than unknowns. The Lucas–Kanade method applies least square to get a compromise solution.
 
+<img src="eq2.gif">
 
 ## Result
 <img src="optical_flow.jpg">
